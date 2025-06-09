@@ -1,0 +1,6 @@
+Any errors in the terminal
+
+Open browser's Developer Tools → Network tab and check what file fails to load
+
+Try accessing http://localhost:3000/enter.html directly — does it load?
+
